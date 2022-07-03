@@ -1,4 +1,3 @@
 # MACHINE LEARNING WITH SPARK STREAMING PROJECT 
 # SENTIMENT ANALYSIS USING MACHINE LEARNING MODELS:
-      We have done only the streaming of our dataset and working on model building.
-     
+     This Project is about Sentiment Analysis on huge dataset of twitter's tweets using the Big Data Techniques
